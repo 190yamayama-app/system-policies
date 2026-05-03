@@ -1,69 +1,95 @@
-# PocketArchitect プライバシーポリシー
+# Privacy Policy
 
-最終更新日：2026年5月3日
+Version: 1.0  
+Last Updated: May 3, 2026
 
-190yamayama（以下「当社」）は、PocketArchitect（以下「本アプリ」）をご利用いただくユーザー（以下「ユーザー」）の個人情報の取り扱いについて、以下のとおりプライバシーポリシー（以下「本ポリシー」）を定めます。
+Yamashita System Development Office ("we," "us," or "our") sets out the following policy regarding the handling of user personal information and data in connection with the provision of "PocketArchitect" ("the Service").
 
----
+## Article 1 (Information We Collect)
 
-## 1. 収集する情報
+We collect the following information to provide the Service.
 
-本アプリは、ユーザーから以下の情報を収集することがあります。
+**GitHub Credentials (OAuth Token)**  
+Used to access the GitHub API. Stored only on your device and never sent to our servers.
 
-- **端末情報**：デバイスの種類、OSのバージョンなど、アプリの動作に必要な技術情報
-- **利用状況データ**：アプリの機能の利用頻度やクラッシュレポートなど、品質改善のための匿名データ
-- **ユーザーが入力したデータ**：本アプリ内でユーザーが作成・保存したコンテンツ
+**Firebase Anonymous UID**  
+An anonymous identifier automatically issued for server-integrated features such as push notifications. It is not linked to personally identifiable information such as your name or email address.
 
----
+**FCM Token (Push Notification Token)**  
+Used to deliver push notifications such as work completion alerts from the GitHub Copilot agent. Stored on our Firebase server.
 
-## 2. 情報の利用目的
+**Notification Data**  
+The content of work completion notifications and similar data is stored on our Firebase Firestore server.
 
-収集した情報は、以下の目的のために利用します。
+**Crash Information**  
+If the app terminates unexpectedly, technical information such as device model, OS version, and crash location is automatically collected through Firebase Crashlytics. This information does not include personally identifiable information.
 
-- 本アプリのサービス提供および機能の改善
-- バグの修正・品質向上
-- ユーザーサポートへの対応
-- 法令に基づく対応
+## Article 2 (How We Use Your Information)
 
----
+We use collected information for the following purposes:
 
-## 3. 情報の第三者提供
+1. Communicating with the GitHub API and executing operations requested by the user
+2. Sending push notifications
+3. Improving app quality and fixing bugs
+4. Operating the service securely and preventing unauthorized use
 
-当社は、以下の場合を除き、ユーザーの個人情報を第三者に提供しません。
+If we use your information for purposes other than those listed above, we will ask for your consent in advance.
 
-- ユーザーの同意がある場合
-- 法令に基づき開示が必要な場合
-- 人の生命・身体または財産の保護のために必要な場合
+## Article 3 (How We Store and Manage Information)
 
----
+**Information Stored on Your Device**  
+The following information is stored only on your device and is never sent to our servers:
+- GitHub OAuth token (encrypted with EncryptedSharedPreferences using Android Keystore)
+- App settings (language, theme, repository in use, etc.)
+- Operation logs (audit log)
 
-## 4. 情報の管理
+**Information Stored on Our Servers**  
+The following information is stored on our servers (Firebase):
+- FCM token
+- Notification data
+- Crash information (anonymous)
 
-当社は、収集した情報の漏洩・紛失・改ざんを防ぐため、適切なセキュリティ対策を講じます。
+**Security Measures**  
+We implement technical and organizational security measures to protect collected information against unauthorized access, leaks, and tampering.
 
----
+## Article 4 (Disclosure to Third Parties)
 
-## 5. データの保存と削除
+We will not provide user information to third parties except in the following cases:
 
-ユーザーが本アプリをアンインストールした場合、端末内に保存されたデータは削除されます。クラウドやサーバーへの個人情報の保存は行いません（現時点）。
+1. Where the user has provided consent
+2. Where required by law
+3. Where necessary to protect a person's life, body, or property
 
----
+## Article 5 (Third-Party Services We Use)
 
-## 6. 子どものプライバシー
+The Service uses the following third-party services. We encourage you to review the privacy policies of each service as well.
 
-本アプリは13歳未満の子どもを対象としておらず、意図的に13歳未満の子どもの個人情報を収集しません。
+**Firebase (Google LLC)**  
+Used for push notifications, data storage, and crash analytics.  
+https://firebase.google.com/support/privacy
 
----
+**GitHub (GitHub, Inc.)**  
+Used for authentication and GitHub API access.  
+https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
 
-## 7. 本ポリシーの変更
+## Article 6 (Your Rights)
 
-当社は、必要に応じて本ポリシーを変更することがあります。変更後のポリシーは本ページに掲載し、掲載時点から効力を生じるものとします。
+You have the following rights:
 
----
+1. The right to request disclosure of your data held by us
+2. The right to request correction of inaccurate information
+3. The right to request suspension of use or deletion of your data
 
-## 8. お問い合わせ
+To exercise these rights, please use the inquiry form in the App's Settings menu.
 
-本ポリシーに関するお問い合わせは、以下の連絡先までお願いします。
+## Article 7 (Data Retention)
 
-- **開発者**：190yamayama
-- **GitHub**：[https://github.com/190yamayama-app](https://github.com/190yamayama-app)
+We retain data only for as long as necessary to fulfill the purposes for which it was collected. If you stop using the Service or request data deletion, we will promptly carry out the deletion procedure. Data stored on your device can be deleted by uninstalling the app.
+
+## Article 8 (Changes to This Privacy Policy)
+
+This Policy may be revised as necessary. You will be notified within the App of any significant changes.
+
+## Article 9 (Contact Us)
+
+For inquiries regarding this Policy, please use the inquiry form in the App's Settings menu.

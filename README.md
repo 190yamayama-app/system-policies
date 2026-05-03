@@ -1,9 +1,9 @@
 # system-policies
 
-190yamayama が開発・提供する各アプリのプライバシーポリシーを公開するリポジトリです。
+This repository publishes the privacy policy texts for apps developed and provided by Yamashita System Development Office.
 
-## アプリ一覧
+## Apps
 
-| アプリ名 | プライバシーポリシー |
+| App | Privacy Policy |
 |---|---|
-| PocketArchitect | [プライバシーポリシー](./PocketArchitect/privacy-policy.md) |
+| PocketArchitect | [Privacy Policy](./PocketArchitect/privacy-policy.md) |
