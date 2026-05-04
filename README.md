@@ -4,6 +4,6 @@ This repository publishes the privacy policy texts for apps developed and provid
 
 ## Apps
 
-| App | Privacy Policy |
-|---|---|
-| PocketArchitect | [Privacy Policy](./PocketArchitect/privacy-policy.md) |
+| App | Privacy Policy(en) | Privacy Policy(jp) |
+|---|---|---|
+| PocketArchitect | [Privacy Policy](./PocketArchitect/en/privacy-policy.md) | [Privacy Policy](./PocketArchitect/jp/privacy-policy.md) |
