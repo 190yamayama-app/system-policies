@@ -66,11 +66,11 @@ The Service uses the following third-party services. We encourage you to review 
 
 **Firebase (Google LLC)**  
 Used for push notifications, data storage, and crash analytics.  
-https://firebase.google.com/support/privacy
+[Firebase Privacy Policy](https://firebase.google.com/support/privacy)
 
 **GitHub (GitHub, Inc.)**  
 Used for authentication and GitHub API access.  
-https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+[GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
 ## Article 6 (Your Rights)
 
