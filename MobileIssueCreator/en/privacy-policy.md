@@ -3,7 +3,7 @@
 Version: 1.0  
 Last Updated: May 3, 2026
 
-Yamashita System Development Office ("we," "us," or "our") sets out the following policy regarding the handling of user personal information and data in connection with the provision of "PocketArchitect" ("the Service").
+Yamashita System Development Office ("we," "us," or "our") sets out the following policy regarding the handling of user personal information and data in connection with the provision of "MobileIssueCreator" ("the Service").
 
 ## Article 1 (Information We Collect)
 
