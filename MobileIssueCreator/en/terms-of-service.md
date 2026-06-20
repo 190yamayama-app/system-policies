@@ -3,7 +3,7 @@
 Version: 1.0  
 Last Updated: May 3, 2026
 
-Please read these Terms of Service ("Terms") carefully before using "PocketArchitect" ("the Service") provided by Yamashita System Development Office ("we," "us," or "our"). By using the Service, you agree to be bound by these Terms.
+Please read these Terms of Service ("Terms") carefully before using "MobileIssueCreator" ("the Service") provided by Yamashita System Development Office ("we," "us," or "our"). By using the Service, you agree to be bound by these Terms.
 
 ## Article 1 (Overview of the Service)
 
