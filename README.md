@@ -6,4 +6,4 @@ This repository publishes the privacy policy and terms of service texts for apps
 
 | App | Privacy Policy(en) | Privacy Policy(ja) | Terms of Service(en) | Terms of Service(ja) |
 |---|---|---|---|---|
-| PocketArchitect | [Privacy Policy](./PocketArchitect/en/privacy-policy.md) | [Privacy Policy](./PocketArchitect/ja/privacy-policy.md) | [Terms of Service](./PocketArchitect/en/terms-of-service.md) | [Terms of Service](./PocketArchitect/ja/terms-of-service.md) |
+| MobileIssueCreator | [Privacy Policy](./MobileIssueCreator/en/privacy-policy.md) | [Privacy Policy](./MobileIssueCreator/ja/privacy-policy.md) | [Terms of Service](./MobileIssueCreator/en/terms-of-service.md) | [Terms of Service](./MobileIssueCreator/ja/terms-of-service.md) |
